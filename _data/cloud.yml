@@ -177,6 +177,7 @@ websites:
       tfa: Yes
       twitter: scalegridio
       facebook: ScaleGrid
+      doc: https://help.scalegrid.io/docs/account-two-factor-authentication
 
     - name: Scaleway
       url: https://www.scaleway.com
